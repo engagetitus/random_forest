@@ -1,6 +1,4 @@
 # Random Forests  
-_Titus Muthomi Kimaani C 004/600178/2024_
-
 ---
 
 ## Introduction  
